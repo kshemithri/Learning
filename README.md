@@ -1,6 +1,7 @@
 # Learning1
 A new project for learning about git
 
+project clone as https
 
 Pull/merge request
 Conflicts
